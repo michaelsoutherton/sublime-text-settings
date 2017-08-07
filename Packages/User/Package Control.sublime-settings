@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Case Conversion",
+		"DeleteBlankLines",
+		"Gitignore",
+		"HostsEdit",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}
